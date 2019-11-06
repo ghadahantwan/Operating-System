@@ -1,0 +1,2 @@
+ 
+Operating System acts as a communication bridge interface between the user and computer hardware. The purpose of an operating system is to provide a stage on which a user can execute programs in a convenient and efficient manner. The important functions of an operating sSystem are security, control over system performance , job accounting, error detecting aids, memory management so, every function has special performs.
